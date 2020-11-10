@@ -1,0 +1,6 @@
+SOURCE_ROOT=/usr/wrk/people9/nafo1604/Nek5000
+FC=mpif77
+FFLAGS=-g -r8 -fpconstant -fpp
+CC=mpicc
+CFLAGS=
+PPLIST= MPI UNDERSCORE TIMER

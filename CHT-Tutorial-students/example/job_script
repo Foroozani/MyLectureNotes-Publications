@@ -1,0 +1,23 @@
+#!/bin/csh
+#BSUB -q BatchXL
+#BSUB -n 16
+#BSUB -a openmpi
+#BSUB -R "span[ptile='!']"
+#BSUB -o log.1
+#BSUB -e err.1
+#BSUB -J tutorNek5-ORG
+#BSUB -L /bin/csh
+date
+
+setenv OMP_NUM_THREADS 1
+setenv KMP_STACKSIZE 512000000
+
+module purge
+module load intel/v2017ompi
+
+echo cube       >  SESSION.NAME
+echo `pwd`'/' >>  SESSION.NAME
+
+
+mpirun -n $LSB_DJOB_NUMPROC nek5000
+date

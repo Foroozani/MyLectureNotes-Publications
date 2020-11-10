@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Object name="VisIt">
+    <Field name="Version" type="string">2.9.0</Field>
+    <Object name="GUI">
+        <Object name="FileServerList">
+            <Field name="path" type="string">/usr/scratch4/nafo1604/tutorial3</Field>
+            <Field name="filter" type="string">*</Field>
+            <Field name="useCurrentDir" type="bool">true</Field>
+            <Field name="automaticFileGrouping" type="bool">true</Field>
+            <Field name="smartFileGrouping" type="bool">true</Field>
+            <Field name="showDotFiles" type="bool">false</Field>
+            <Object name="recentpaths">
+                <Field name="localhost" type="stringVector">"/usr/scratch4/nafo1604/tutorial3" </Field>
+            </Object>
+        </Object>
+        <Object name="AppearanceAttributes">
+            <Field name="useSystemDefault" type="bool">true</Field>
+            <Field name="background" type="string">#c0c0c0</Field>
+            <Field name="foreground" type="string">#000000</Field>
+            <Field name="fontName" type="string">Helvetica,12,-1,5,50,0,0,0,0,0</Field>
+            <Field name="style" type="string">motif</Field>
+            <Field name="orientation" type="int">0</Field>
+            <Field name="defaultForeground" type="string">#221f1e</Field>
+            <Field name="defaultBackground" type="string">#d6d2d0</Field>
+            <Field name="defaultFontName" type="string">"Sans Serif,9,-1,5,50,0,0,0,0,0"</Field>
+            <Field name="defaultStyle" type="string">plastique</Field>
+            <Field name="defaultOrientation" type="int">0</Field>
+        </Object>
+        <Object name="Appearance">
+            <Field name="x" type="int">386</Field>
+            <Field name="y" type="int">35</Field>
+            <Field name="width" type="int">265</Field>
+            <Field name="height" type="int">246</Field>
+            <Field name="visible" type="bool">false</Field>
+            <Field name="posted" type="bool">false</Field>
+        </Object>
+        <Field name="postWhenShown" type="bool">false</Field>
+        <Object name="File open">
+            <Field name="x" type="int">0</Field>
+            <Field name="y" type="int">220</Field>
+            <Field name="width" type="int">626</Field>
+            <Field name="height" type="int">445</Field>
+            <Field name="visible" type="bool">false</Field>
+        </Object>
+        <Object name="Pick">
+            <Field name="x" type="int">1500</Field>
+            <Field name="y" type="int">35</Field>
+            <Field name="width" type="int">364</Field>
+            <Field name="height" type="int">787</Field>
+            <Field name="visible" type="bool">false</Field>
+            <Field name="posted" type="bool">false</Field>
+            <Field name="autoShow" type="bool">true</Field>
+            <Field name="savePicks" type="bool">false</Field>
+            <Field name="userMaxTabs" type="int">8</Field>
+            <Field name="activeOptionsTab" type="int">0</Field>
+        </Object>
+        <Object name="Subset">
+            <Field name="x" type="int">287</Field>
+            <Field name="y" type="int">372</Field>
+            <Field name="width" type="int">524</Field>
+            <Field name="height" type="int">351</Field>
+            <Field name="visible" type="bool">false</Field>
+            <Field name="posted" type="bool">false</Field>
+        </Object>
+        <Object name="MainWin">
+            <Field name="x" type="int">0</Field>
+            <Field name="y" type="int">35</Field>
+            <Field name="width" type="int">386</Field>
+            <Field name="height" type="int">815</Field>
+            <Field name="SPLITTER_VALUES_V2" type="floatVector">0 1 </Field>
+        </Object>
+        <Object name="Mesh plot attributes">
+            <Field name="x" type="int">306</Field>
+            <Field name="y" type="int">35</Field>
+            <Field name="width" type="int">399</Field>
+            <Field name="height" type="int">577</Field>
+            <Field name="visible" type="bool">false</Field>
+            <Field name="posted" type="bool">false</Field>
+        </Object>
+        <Field name="plotDatabases" type="stringVector">"localhost:/usr/scratch4/nafo1604/tutorial3/cube.nek5000" </Field>
+        <Object name="TimeFormat">
+            <Field name="displayMode" type="string">Cycles</Field>
+            <Field name="precision" type="int">5</Field>
+        </Object>
+        <Field name="showSelectedFiles" type="bool">false</Field>
+        <Field name="allowFileSelectionChange" type="bool">true</Field>
+        <Field name="enableWarningMessagePopups" type="bool">true</Field>
+    </Object>
+</Object>
