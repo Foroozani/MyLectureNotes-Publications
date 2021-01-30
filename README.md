@@ -1,7 +1,7 @@
 # MyLecturesNote
 Lecture note on Computational Fluid Dynamics (CFD) and numerical simulations, Nigeria 2016 &amp; 2019
 
-Lecture note and hands-on examle
+Lecture note and hands-on examle (Source code can be find [here](http://nek5000.github.io/NekDoc/index.html))
 
 
 **Refrences**:
