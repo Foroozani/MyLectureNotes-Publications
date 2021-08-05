@@ -4,6 +4,11 @@ Lecture note on Computational Fluid Dynamics (CFD) and numerical simulations, Ni
 Lecture note and hands-on examle (Source code can be found [here](http://nek5000.github.io/NekDoc/index.html))
 
 
+<p align="center">
+  <img width="460" height="400" src="https://github.com/Foroozani">
+</p>
+
+
 **Refrences**:
 
 [Turbulent convection and large scale circulation in a cube with rough horizontal surfaces](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.033116)
