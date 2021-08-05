@@ -5,7 +5,7 @@ Lecture note and hands-on examle (Source code can be found [here](http://nek5000
 
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/Foroozani">
+  <img width="460" height="400" src="https://github.com/Foroozani/MyLectureNotes/blob/main/animation_thermal_convection.gif">
 </p>
 
 
