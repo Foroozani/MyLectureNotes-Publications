@@ -15,7 +15,4 @@ Lecture note and hands-on examle (Source code can be found [here](http://nek5000
 
 [Turbulent flow in the bulk of thermal convection: comparison of smooth and different roughness boundaries](https://www.youtube.com/watch?v=hXMZ4kOE_VE)
 
-[Turbulent convection and large scale circulation in a cube with rough horizontal surfaces](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.033116)
 
-
-[Reorientations of the large-scale flow in turbulent convection in a cube](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.033107)
