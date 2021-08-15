@@ -11,8 +11,10 @@ Lecture note and hands-on examle (Source code can be found [here](http://nek5000
 </p>
 
 
-**Refrences**:
+**More to watch ... **:
 
 [Turbulent flow in the bulk of thermal convection: comparison of smooth and different roughness boundaries](https://www.youtube.com/watch?v=hXMZ4kOE_VE)
+
+[Ruminations on a convective theme](https://www.youtube.com/watch?v=zW_LVKG-yPE)
 
 
