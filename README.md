@@ -1,9 +1,9 @@
 
 ### Refrences ... 
 
-[Turbulent flow in the bulk of thermal convection: comparison of smooth and different roughness boundaries by N. Foroozani](https://www.youtube.com/watch?v=hXMZ4kOE_VE)
+[Turbulent flow in the bulk of thermal convection: comparison of smooth and different roughness boundaries by Najmeh Foroozani](https://www.youtube.com/watch?v=hXMZ4kOE_VE)
 
-[Ruminations on a convective theme by J. J. Niemela](https://www.youtube.com/watch?v=zW_LVKG-yPE)
+[Ruminations on a convective theme by Joseph J. Niemela](https://www.youtube.com/watch?v=zW_LVKG-yPE)
 
 [Status of experiments and simulations on scaling problems in turbulence by Katepalli Sreenivasan](https://www.youtube.com/watch?v=JALJi5OvFFE)
 
