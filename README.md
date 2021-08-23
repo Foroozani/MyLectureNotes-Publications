@@ -8,7 +8,7 @@
 [Status of experiments and simulations on scaling problems in turbulence by Katepalli Sreenivasan](https://www.youtube.com/watch?v=JALJi5OvFFE)
 
 
-# MyLecturesNote
+### Topics
 
 
 Lecture notes on Computational Fluid Dynamics (CFD) and numerical modelling in Nigeria, Africa 2016 &amp; 2019
