@@ -1,7 +1,7 @@
 
 ### Refrences ... 
 
-[Turbulent flow in the bulk of thermal convection by "Najmeh Foroozani"](https://www.youtube.com/watch?v=hXMZ4kOE_VE)
+[Turbulent flow in the bulk of thermal convection] by "Najmeh Foroozani"(https://www.youtube.com/watch?v=hXMZ4kOE_VE)
 
 [Ruminations on a convective theme by "Joseph J. Niemela"](https://www.youtube.com/watch?v=zW_LVKG-yPE)
 
