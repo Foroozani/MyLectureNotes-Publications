@@ -1,11 +1,11 @@
 
 ### Refrences ... 
 
-[Turbulent flow in the bulk of thermal convection](https://www.youtube.com/watch?v=hXMZ4kOE_VE)by "Najmeh Foroozani"
+[Turbulent flow in the bulk of thermal convection](https://www.youtube.com/watch?v=hXMZ4kOE_VE) by "Najmeh Foroozani"
 
-[Ruminations on a convective theme by "Joseph J. Niemela"](https://www.youtube.com/watch?v=zW_LVKG-yPE)
+[Ruminations on a convective theme ](https://www.youtube.com/watch?v=zW_LVKG-yPE)by "Joseph J. Niemela"
 
-[Status of experiments and simulations on scaling problems in turbulence by "Katepalli R. Sreenivasan"](https://www.youtube.com/watch?v=JALJi5OvFFE)
+[Status of experiments and simulations on scaling problems in turbulence ](https://www.youtube.com/watch?v=JALJi5OvFFE)by "Katepalli R. Sreenivasan"
 
 
 ### Topics
